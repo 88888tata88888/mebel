@@ -175,15 +175,20 @@ body {
     /*END КАТАЛОГ ПРОДУКЦИИ*/
     
     /*Наши приемущества*/
+    .hg {
+        display: none;
+    }
     .nashe {
         background: #E9E9E9;
         width: 410px;
         height: 520px;
         padding-top: 40px;
+        display: none;
     }
     .nashe-ul {
         margin-top: 70px;
         text-align: center;
+        display: none;
     }
     /*END Наши приемущества*/
     
