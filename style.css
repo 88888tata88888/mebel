@@ -38,7 +38,7 @@ body {
     .ruka {
         background: #313131;
         width: 100%;
-        height: 780px;
+        height: 760px;
     }
     .ruka1 {
         margin-top: 750px;
@@ -67,14 +67,15 @@ body {
     }
     .button {
         background: #EC7F00;
-        margin-top: 66px;
+        margin-top: 50px;
         width: 280px;
         height: 60px;
         border: none;
         border-radius: 20px;
         transition: 0.4s;
         cursor: pointer;
-      justify-content: center;
+        margin-left: 65px;
+         
     }
     .button:hover{
        background:  hsl(32, 80%, 56%);
@@ -91,6 +92,7 @@ body {
         width: 400px;
         height: 400px;
         justify-content: center;
+        margin-left: 33px;
     }
     .compani-h2 {
         font-size: 40px;
@@ -132,6 +134,7 @@ body {
         width: 350px;
         height: 350px;
         justify-content: center;
+        margin-left: -5px;
     }
     .product-div {
         margin-top: 60px;
@@ -197,6 +200,7 @@ body {
        justify-content: space-between;
        margin-top: 100px;
        text-align: center;
+       margin-left: -20px;
     }
     .cart {
         display: none;
@@ -212,7 +216,7 @@ body {
         background: #313131;
         width: 100%;
         margin-top: 80px;
-        height: 100px;
+        height: 120px;
         align-items: center;
         text-align: center;
         padding-top: 15px;
@@ -268,7 +272,7 @@ body {
         pointer-events: none;
     }
     .contact-form {
-        width: 400px;
+        width: 300px;
         min-height: 200px;
         padding: 20px;
         margin: 0 auto;
